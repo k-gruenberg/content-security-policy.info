@@ -86,7 +86,7 @@
   			<p>© 2023 Kendrick Grünberg | <a href="https://github.com/k-gruenberg/content-security-policy.info">View source code</a> | <a href="" id="contact_link">Contact</a> | See also: <a href="http://same-origin-policy.info">same-origin-policy.info</a></p>
 		</div>
 		<script nonce="abcd">
-			eval(atob("Y29udGFjdF9saW5rLmhyZWYgPSBhdG9iKCdiV0ZwYkhSdk9tTnZiblJoWTNSQVkyOXVkR1Z1ZEMxelpXTjFjbWwwZVMxd2IyeHBZM2t1YVc1bWJ3PT0nKTs="));
+			contact_link.href = atob('bWFpbHRvOmNvbnRhY3RAY29udGVudC1zZWN1cml0eS1wb2xpY3kuaW5mbw==');
 		</script>
 	</body>
 </html>
