@@ -82,6 +82,11 @@
 			</ul>
 		</p>
 
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
 		<div class="footer" style="font-family:Arial,Helvetica,sans-serif;">
   			<p>© 2023 Kendrick Grünberg | <a href="https://github.com/k-gruenberg/content-security-policy.info">View source code</a> | <a href="" id="contact_link">Contact</a> | See also: <a href="http://same-origin-policy.info">same-origin-policy.info</a></p>
 		</div>
