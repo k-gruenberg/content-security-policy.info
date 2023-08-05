@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>Content Security Policy (CSP)</title>
-		<meta http-equiv="Content-Security-Policy" content="script-src 'nonce-abcd' 'nonce-wxyz' 'sha256-mbUqeqrWHlx2EmgPldmAK0AOTRUtEmMtKOZY9SUKId8=' 'strict-dynamic'; img-src http://*.google.com;" />
+		<meta http-equiv="Content-Security-Policy" content="script-src 'nonce-abcd' 'nonce-wxyz' 'sha256-mbUqeqrWHlx2EmgPldmAK0AOTRUtEmMtKOZY9SUKId8=' 'strict-dynamic'; img-src 'self' http://*.google.com;" />
 		<!-- Note: ‘frame-ancestors’ (Not supported when delivered via meta element). -->
 		<style>
 			.footer {
