@@ -79,6 +79,8 @@
 				<li><span style="color:red  ">&lt;img src="http://de.wikipedia.org/static/images/project-logos/dewiki-2x.png" /&gt;</span></li>
 				<li><span style="color:red  ">&lt;img src="https://de.wikipedia.org/static/images/project-logos/dewiki-2x.png" /&gt;</span></li>
 				<li>This works only because <tt>'strict-dynamic'</tt> is set: <span style="color:green">&lt;script nonce="wxyz"&gt;s=document.createElement("script");s.innerText="alert('works!')";document.body.appendChild(s);&lt;/script&gt;</span></li>
+				<li><span style="color:green">&lt;script nonce="abcd"&gt;document.write('&lt;script nonce="wxyz"&gt;alert(1337)&lt;'+'/script&gt;');&lt;/script&gt;</span></li>
+				<li><span style="color:red  ">&lt;script nonce="abcd"&gt;document.write('&lt;script&gt;alert(1337)&lt;'+'/script&gt;');&lt;/script&gt;</span></li>
 			</ul>
 		</p>
 
