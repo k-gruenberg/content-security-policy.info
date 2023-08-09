@@ -90,7 +90,7 @@
 		<br/>
 		<br/>
 		<div class="footer" style="font-family:Arial,Helvetica,sans-serif;">
-  			<p>© 2023 Kendrick Grünberg | <a href="https://github.com/k-gruenberg/content-security-policy.info">View source code</a> | <a href="" id="contact_link">Contact</a> | See also: <a href="http://same-origin-policy.info">same-origin-policy.info</a> ; <a href="http://set-cookie.info/">set-cookie.info</a></p>
+  			<p>© 2023 Kendrick Grünberg | <a href="https://github.com/k-gruenberg/content-security-policy.info">View source code</a> | <a href="" id="contact_link">Contact</a> | See also: <a href="http://same-origin-policy.info">same-origin-policy.info</a> ; <a href="http://set-cookie.info/">set-cookie.info</a> ; <a href="http://xsrf.me/">xsrf.me</a></p>
 		</div>
 		<script nonce="abcd">
 			contact_link.href = atob('bWFpbHRvOmNvbnRhY3RAY29udGVudC1zZWN1cml0eS1wb2xpY3kuaW5mbw==');
